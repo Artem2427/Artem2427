@@ -1,6 +1,7 @@
-<!-- ## Hi there 👋 -->
-
 ![Header](https://github.com/Artem2427/Artem2427/blob/main/assets/header.png)
+
+<h1 align="center">Hi 👋, I'm Artem</h1>
+---
 
 About me
 
@@ -20,3 +21,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<!-- https://camo.githubusercontent.com/3782881044e264bfb2d1002964bc4f6a1fd0e7c7fe411a09473416a3589d02a2/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f31334867774773584630616947592f67697068792e676966 -->
