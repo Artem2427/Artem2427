@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Artem</h1>
 
-<h3 align="center">A passionate full-stack developer from Ukraine. I love to study something new, to create modern applications which are helped for business to increase their profit for short time</h3>
+<h3 align="center">A passionate full-stack developer from Ukraine with a focus on Frontend technologies like React, Next.js, and Angular. I love creating modern, performant web applications with exceptional user experience that help businesses achieve their goals faster</h3>
 
 <h3 align="left">Connect with me:</h3>
 <div>
@@ -15,6 +15,9 @@
 <a href="https://github.com/Artem2427" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
+<a href="https://t.me/Jond_1" target="_blank">
+<img src=https://img.shields.io/badge/telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
+</a>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -22,7 +25,7 @@
 
 ---
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Artem2427&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+<!-- <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Artem2427&show_icons=true&count_private=true&hide_border=true" align="center" /></div> -->
 
 
 <!--
